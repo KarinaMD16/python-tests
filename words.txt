@@ -1,0 +1,6 @@
+elephant
+giraffe
+python
+jazz
+astronaut
+clown
