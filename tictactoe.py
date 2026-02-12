@@ -1,6 +1,9 @@
 from termcolor import colored
 import os
 
+# This file contains functions for creating and managing a tic-tac-toe game, 
+# including board creation, move validation, winner checking, and a main game loop with a leaderboard.
+
 X = 'X'
 O = 'O'
 

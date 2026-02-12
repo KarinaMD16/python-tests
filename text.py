@@ -1,6 +1,9 @@
 import os
 from termcolor import colored
 
+# This file contains functions for reading, writing, updating, and deleting text files, 
+# as well as displaying colored text and getting user input for a note-taking application.
+
 def read_file(filename):
   with open(filename, 'r') as file:
     return file.read()

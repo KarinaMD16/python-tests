@@ -1,5 +1,8 @@
 from termcolor import colored
 import random
+
+# this file contains functions for a wordle game, where the player has to guess a 5-letter word.
+
 # palabra de 5 letras. 
 # si una letra es correcta y está en la posición correcta, se muestra en verde.
 # si una letra es correcta pero está en la posición incorrecta, se muestra en amarillo.

@@ -1,5 +1,8 @@
 import random
 
+# This file contains a simple number guessing game, 
+# where the player has to guess a random number within a specified range and a limited number of attempts.
+
 min= int(input("Enter the lowest number: "))
 max = int(input("Enter the highest number: "))
 

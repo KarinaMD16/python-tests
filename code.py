@@ -1,5 +1,8 @@
 import qrcode
 
+# This file contains a simple QR code generator that prompts 
+# the user for input and saves the generated QR code as a PNG file.
+
 choice = input("How many QR codes do you want to generate?: ")
 
 for i in range(int(choice)):

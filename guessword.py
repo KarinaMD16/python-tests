@@ -1,7 +1,9 @@
 import re
 import random
-
 from termcolor import colored 
+
+# This file contains functions for a wordle game, where the player has to guess a 5-letter word.
+
 
 def read_words ():
     try:
